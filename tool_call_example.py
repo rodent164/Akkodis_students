@@ -1,4 +1,4 @@
-from AI_Tutorial.akkodis_clients import client_gpt_4o
+from akkodis_clients import client_gpt_4o
 client_gpt, gpt_model = client_gpt_4o()
 from chatmodule import Chat, client_gpt
 import json
