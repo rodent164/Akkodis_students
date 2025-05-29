@@ -8,7 +8,7 @@ Do not copy it for productive code.
 
 import openai
 from typing import Tuple
-from AI_Tutorial.conf import AKKODIS_API_KEY, OPENAI_API_KEY, PROVIDER
+from conf import AKKODIS_API_KEY, OPENAI_API_KEY, PROVIDER
 
 API_BASE = "https://cld.akkodis.com/api/openai/"
 API_VERSION = "2024-05-01-preview"
